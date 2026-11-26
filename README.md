@@ -1,5 +1,5 @@
 <img align="right" src="https://raw.githubusercontent.com/carloscarbonellatoche-oss/carloscarbonellatoche-oss/refs/heads/main/Carlos.jpeg" width="20%">
-<h1>
+<h1 style="border-bottom: none;">
   Hi There, I am Carlos Carbonel 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
@@ -11,7 +11,7 @@ I'm a appasionate of web development and I look forward to the possibility of cr
 - 📚 I’m currently learning about Frontend and Backend technologies.
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
 
-<p align="center">
+<p align="left">
 	<a href="mailto:carloscarbonelatoche@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/carloscarbonellatoche-oss"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/638843448"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
