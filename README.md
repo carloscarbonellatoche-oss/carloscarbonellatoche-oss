@@ -1,7 +1,7 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="https://raw.githubusercontent.com/carloscarbonellatoche-oss/carloscarbonellatoche-oss/refs/heads/main/Carlos.jpeg" width="20%">
 <h1>
   Hi There, I am Carlos Carbonel 
-  <img src="https://raw.githubusercontent.com/carloscarbonellatoche-oss/carloscarbonellatoche-oss/refs/heads/main/Carlos.jpeg" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
 I'm a appasionate of web development and I look forward to the possibility of creating visually appealing, user-friendly websites that provide meaningful experiences.
@@ -28,9 +28,9 @@ I'm a appasionate of web development and I look forward to the possibility of cr
 
 ## <b> Technologies Already Used 🛠️ </b>
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![CSS3](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=black)]() [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]()
 
-- Web Development: HTML, CSS, JavaScript
+- Web Development: HTML, CSS, JavaScript (Currently Ongoing)
 - Backend Technologies: Python
 
 <br>
@@ -55,6 +55,7 @@ I'm a appasionate of web development and I look forward to the possibility of cr
 - **🌐 Frontend Development**:
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
     ![CSS3](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=black)
+  	![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
     ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black)
 
@@ -73,7 +74,7 @@ I'm a appasionate of web development and I look forward to the possibility of cr
 <br>
 
 - **🛠️ Herramientas y Entorno**:
-  ![Terminal Linux](<https://img.shields.io/badge/Terminal%20(Linux)-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black>)
+  ![Terminal](<https://img.shields.io/badge/Terminal%20(Linux)-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black>)
   ![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
   ![Despliegue](https://img.shields.io/badge/Despliegue-%23327FC7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black)
