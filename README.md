@@ -26,7 +26,7 @@ I'm a web development enthusiast and I look forward to the possibility of creati
 
 <br>
 
-## <b> 🛠️ Technologies Already Used </b>
+## <b> 🛠️ Technologies I've Already Used </b>
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![CSS3](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=black)]() [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() [![Terminal](<https://img.shields.io/badge/Terminal%20-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black>)]() [![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=black)]() [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)]()
 
