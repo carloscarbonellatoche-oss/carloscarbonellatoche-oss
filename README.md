@@ -5,12 +5,12 @@
 </h1>
 <img align="right" src="https://raw.githubusercontent.com/carloscarbonellatoche-oss/carloscarbonellatoche-oss/refs/heads/main/Carlos.jpeg" height="250em" syle="margin-right=10%;">
 <p>
-I'm an appasionate of web development and I look forward to the possibility of creating visually appealing, user-friendly websites that provide meaningful experiences.
+I'm a web development enthusiast and I look forward to the possibility of creating visually appealing, user-friendly websites that provide meaningful experiences.
 </p>
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript & ReactJS.
 - 📚 I’m currently learning about Frontend and Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+- 🎯 Future Goals: Learn more web technologies - Create awesome websites - Become a Full Stack Developer
 
 <p align="left">
 	<a href="mailto:carloscarbonelatoche@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
